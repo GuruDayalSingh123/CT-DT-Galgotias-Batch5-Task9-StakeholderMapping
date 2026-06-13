@@ -108,3 +108,8 @@
 
 The success of the **AI Study Assistant App** depends on effective collaboration among students, educators, developers, institutions, and regulatory bodies. Understanding stakeholder interests and influence helps create a user-centered, secure, and scalable learning platform that delivers personalized educational experiences.
 
+
+
+
+
+https://lucid.app/lucidchart/b44322bf-75e7-4193-8fc5-94a84f2fcbbf/edit?viewport_loc=1214%2C-1925%2C3053%2C1383%2C0_0&invitationId=inv_b345eb84-355a-4940-949f-b2aa3b1d6bc8
